@@ -18,6 +18,8 @@ El módulo busca que el alumnado alance los siguientes objetivos expresados como
 
 ## Sesiones
 
+- Lunes de 8:30 a 9:30 h y de 10:30 a 11:30 h.
+
 ## Contenidos
 
 Los contenidos exigidos al módulo se van a trabajar a través de los 3 trimestres de la siguiente forma:
@@ -36,12 +38,13 @@ Se realizará mediante la superación de los resultados de aprendizaje. La calif
 
 Los instrumentos que se usarán para evaluar serán los siguientes:
 
-* Ejercicios teóricos o prácticos individuales o en grupo.
-* Pruebas teóricas objetivas.
-* Pruebas prácticas objetivas.
+* Realización de proyectos prácticos individuales o en grupo.
+* Realización de un proyecto final.
 
 ## Contacto
 
 A través del correo electrónico corporativo o de la plataforma Moodle centros.
 
 ## Evaluación inicial
+
+Se puede encontrar en el [siguiente enlace](https://forms.gle/yYGxf8t2C2qdHZAp8).
