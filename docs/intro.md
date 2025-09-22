@@ -35,7 +35,7 @@ Qué se persigue:
 
 Cómo se trabaja:
 
-Se conversa con los interesados (profesor/cliente, usuarios), se revisa el entorno (aula, red, seguridad) y se toma nota de requisitos funcionales (p. ej., “los 20 PCs deben unirse al dominio y arrancar en <30 s”) y no funcionales (rendimiento, seguridad, mantenibilidad). Conviene priorizar (por ejemplo, con MoSCoW: Must, Should, Could, Won’t) y acordar qué queda fuera.
+Se conversa con los interesados (cliente, usuarios), se revisa el entorno (aula, red, seguridad) y se toma nota de requisitos funcionales (p. ej., “los 20 PCs deben unirse al dominio y arrancar en <30 s”) y no funcionales (rendimiento, seguridad, mantenibilidad). Conviene priorizar (por ejemplo, con MoSCoW: Must, Should, Could, Won’t) y acordar qué queda fuera.
 
 #### Tabla modelo de requisitos
 
@@ -94,9 +94,9 @@ Probar no es “ver si funciona por encima”, sino demostrar que cada requisito
 Qué se persigue:
 
 - Validar requisitos con casos de prueba bien definidos (precondiciones, pasos, resultado esperado).
-- Registrar incidencias con severidad/prioridad y re–probar tras corregir.
+- Registrar incidencias con severidad/prioridad y volver a probar tras corregir.
 
-Tipos de prueba útiles en Grado Medio:
+Tipos de prueba útiles:
 
 - De instalación/configuración (servicios se levantan, puertos abiertos correctos).
 - Funcionales (el usuario puede iniciar sesión, obtener IP, acceder a un recurso).
