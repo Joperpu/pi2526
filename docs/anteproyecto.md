@@ -33,4 +33,4 @@ La aceptación de este anteproyecto y su calificación positiva es INDISPENSABLE
 
 Crea un documento PDF y súbelo a la tarea de Moodle Centros correspondiente con el siguiente formato de nombre:
 
-Apellido1Apellido1Apellido2_Nombre_PI_AP.zip
+Apellido1Apellido1Apellido2_Nombre_PI_AP.pdf
