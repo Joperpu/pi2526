@@ -29,6 +29,7 @@ A continuación se desgranarán algunos de los documentos obligatorios que se de
 1. Portada
     - Título del proyecto, alumnos, fecha, centro, módulo, curso
 2. Introducción
+    - Pequeño resumen en español e inglés
     - Contexto y problema
     - Resumen de la solución
     - Tecnologías principales
@@ -62,7 +63,7 @@ El archivo de presentación será el que se usará el día de la defensa del pro
 
 La presentación contendrá, al menos, los siguientes apartados:
 
-1. Introducción
+1. Introducción (en inglés)
 2. Objetivos
 3. Requisitos
 4. Diseño
