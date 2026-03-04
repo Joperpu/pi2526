@@ -59,7 +59,7 @@ A continuación se desgranarán algunos de los documentos obligatorios que se de
 
 ### Presentación
 
-El archivo de presentación será el que se usará el día de la defensa del proyecto. Esta defensa durará entre 20 y 30 min, donde el alumnado realizará una presentación de su proyecto y una posterior demostración de uso del mismo, siendo equilibrado el tiempo empleado entre ambas partes. El equipo educativo, una vez finalizada la defensa, podrá realizar cualquier tipo de cuestión al alumnado en relación a dicho proyecto.
+El archivo de presentación será el que se usará el día de la defensa del proyecto. Esta defensa durará 15 minutos, donde el alumnado realizará una presentación de su proyecto y una posterior demostración de uso del mismo, siendo equilibrado el tiempo empleado entre ambas partes. El equipo educativo, una vez finalizada la defensa, podrá realizar cualquier tipo de cuestión al alumnado en relación a dicho proyecto.
 
 La presentación contendrá, al menos, los siguientes apartados:
 
